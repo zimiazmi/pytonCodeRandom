@@ -1,0 +1,2 @@
+# pytonCodeRandom
+untuk latihan sederhana
